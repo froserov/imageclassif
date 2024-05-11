@@ -8,4 +8,5 @@ Precondiciones:
 1) Se debe contar con pytorch con CUDA habilitado. Para saber si cuda está habilitado en torch se puede usar:
 
 import torch
+
 torch.cuda.is_available()
